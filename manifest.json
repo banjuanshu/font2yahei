@@ -1,0 +1,11 @@
+{
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "css/2yahei.css" ],
+      "matches": [ "\u003Call_urls\u003E" ]
+   } ],
+   "description": "\u66FF\u6362\u5B57\u4F53\u7684\u4E2D\u6587\u90E8\u5206\u4E3A\u96C5\u9ED1",
+   "manifest_version": 2,
+   "name": "\u9875\u9762\u5b57\u4f53\u663e\u793a\u5fae\u8f6f\u96c5\u9ed1(yahei)",
+   "version": "1.0.1"
+}
