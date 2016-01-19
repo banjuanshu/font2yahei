@@ -70,9 +70,7 @@
    @font-face { font-family: MS Sans Serif;		unicode-range: U+2E80-FFFF; src: local(Meiryo); }
    @font-face { font-family: Microsoft Sans Serif;		unicode-range: U+2E80-FFFF; src: local(Meiryo); }
    @font-face { font-family: MS Reference Sans Serif;	unicode-range: U+2E80-FFFF; src: local(Meiryo); }
- */
 
-/*
    @font-face {
    font-family: Arial Unicode MS;
    unicode-range: U+3000-33FF,
@@ -85,3 +83,4 @@ src: local(Meiryo);
 /* 以下为一些特殊域的字体 */
 TEXTAREA { font-family:monospace, Microsoft Yahei; }
 PRE { font-family:monospace, 'Microsoft Yahei'; }
+
