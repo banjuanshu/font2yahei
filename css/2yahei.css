@@ -1,3 +1,6 @@
+/*
+ * 改变chrome 字体
+ * */
 @font-face { font-family: Andale Mono;		unicode-range: U+2E80-FFFF; src: local('Microsoft Yahei'); }
 @font-face { font-family: Impact;		unicode-range: U+2E80-FFFF; src: local('Microsoft Yahei'); }
 @font-face { font-family: Cambria;		unicode-range: U+2E80-FFFF; src: local('Microsoft Yahei'); }
